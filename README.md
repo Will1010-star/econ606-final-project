@@ -7,3 +7,4 @@ Group member: chengwei Liang，HaoLei Qian, ZheRui Xu
 - Cloned repository locally using GitHub Desktop
 - Added initial README documentation
 - Will add instructor (XuanyangLu) as collaborator for grading
+update
